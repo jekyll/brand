@@ -19,7 +19,7 @@
 		</i:pgfRef>
 	</foreignObject>
 	<g i:extraneous="self">
-		<g id="logo-bg-dark">
+		<g id="logo-bg-dark" inkscape:groupmode="layer">
 			<rect id="bg" fill="#333333" width="960" height="490"/>
 			<g id="test-tube">
 				<path id="shadow_2_" opacity="0.3" d="M802.411,80.363c-0.151,0.607-0.155,1.259-0.027,1.948c0,0,2.065,13.708-0.279,19.809
@@ -306,7 +306,7 @@
 				</g>
 			</g>
 		</g>
-		<g id="logo-bg-light" display="none">
+		<g id="logo-bg-light" inkscape:groupmode="layer" display="none">
 			<g id="test-tube_1_" display="inline">
 				<path id="shadow_1_" opacity="0.1" d="M802.411,80.363c-0.151,0.607-0.155,1.259-0.027,1.948c0,0,2.065,13.708-0.279,19.809
 					L702.43,361.291l0.008,0.003c-7.113,19.036,2.419,40.289,21.429,47.601c19.009,7.311,40.325-2.079,47.801-20.976l0.009,0.004
