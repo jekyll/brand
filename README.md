@@ -22,7 +22,7 @@ one image with a solid background, and one with a transparent background.
 
 Shell scripts in `tools` export the test tube only to PNG by using [Inkscape](http://inkscape.org/). To export a 256 pixel high test tube do:
 
-~~~shell
+~~~bash
 cd tools/
 bash export-test-tube.sh ../builds/test-tube.png 256
 ~~~
