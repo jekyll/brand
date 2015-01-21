@@ -3,8 +3,8 @@ Jekyll’s logo
 
 Logo files for [Jekyll](http://jekyllrb.com).
 
-![](https://github.com/cobyism/jekyll-logo/blob/master/jekyll-logo-dark-solid.png?raw=true)
-![](https://github.com/cobyism/jekyll-logo/blob/master/jekyll-logo-light-transparent.png?raw=true)
+![](/jekyll-logo-dark-solid.png)
+![](/jekyll-logo-light-transparent.png)
 ![](/jekyll-logo-black-transparent.png)
 ![](/jekyll-logo-black-red-transparent.png)
 
