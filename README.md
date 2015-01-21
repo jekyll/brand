@@ -11,13 +11,13 @@ Logo files for [Jekyll](http://jekyllrb.com).
 
 ## SVG Source Files
 
-### Original
+#### Original
 
 The SVG contains two layers, one version with light text suitable for dark backgrounds,
 as it appears on the Jekyll website, and another version with dark text suitable
 for light backgrounds (other places it’s likely to appear).
 
-### Black & White
+#### Black & White
 
 A separate SVG contains a solid black version suitable for certain design or print applications. A variation with red liquid is provided as a separate layer.
 
