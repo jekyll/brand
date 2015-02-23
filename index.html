@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h2>Vector Files</h2>
+
+{% for file in site.static_files %}
+  {% if file.path contains ".svg" %}
+    {% include image_preview.html file=file %}
+  {% endif %}
+{% endfor %}
+
+<h2>PNG Files</h2>
+
+{% for file in site.static_files %}
+  {% if file.path contains ".png" %}
+    {% include image_preview.html file=file %}
+  {% endif %}
+{% endfor %}
