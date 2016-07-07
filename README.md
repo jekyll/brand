@@ -29,4 +29,4 @@ one image with a solid background, and one with a transparent background.
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://choosealicense.com/licenses/cc-by-sa-4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
