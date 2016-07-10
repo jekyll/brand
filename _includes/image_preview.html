@@ -1,0 +1,6 @@
+<dd class="filename">{{ file.path | replace:"/","" }}</dd>
+<dt class="preview">
+  <a href="{{ file.path | prepend:site.github.url }}">
+    <img src="{{ file.path | prepend:site.github.url }}" alt="{{ file.path }}">
+  </a>
+</dt>
